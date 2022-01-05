@@ -1,0 +1,16 @@
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\bin\Debug\net5.0\FirstCsharpApp.exe
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\bin\Debug\net5.0\FirstCsharpApp.deps.json
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\bin\Debug\net5.0\FirstCsharpApp.runtimeconfig.json
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\bin\Debug\net5.0\FirstCsharpApp.runtimeconfig.dev.json
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\bin\Debug\net5.0\FirstCsharpApp.dll
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\bin\Debug\net5.0\ref\FirstCsharpApp.dll
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\bin\Debug\net5.0\FirstCsharpApp.pdb
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\obj\Debug\net5.0\FirstCsharpApp.csproj.AssemblyReference.cache
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\obj\Debug\net5.0\FirstCsharpApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\obj\Debug\net5.0\FirstCsharpApp.AssemblyInfoInputs.cache
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\obj\Debug\net5.0\FirstCsharpApp.AssemblyInfo.cs
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\obj\Debug\net5.0\FirstCsharpApp.csproj.CoreCompileInputs.cache
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\obj\Debug\net5.0\FirstCsharpApp.dll
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\obj\Debug\net5.0\ref\FirstCsharpApp.dll
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\obj\Debug\net5.0\FirstCsharpApp.pdb
+C:\Users\terla\source\repos\FirstCsharpApp\FirstCsharpApp\obj\Debug\net5.0\FirstCsharpApp.genruntimeconfig.cache
